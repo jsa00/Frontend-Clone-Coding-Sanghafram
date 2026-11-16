@@ -2,7 +2,7 @@
 
 상하농원 웹사이트 중 **놀다(전시관)** 페이지와 공통 **헤더·푸터**를 HTML과 CSS로 재현한 클론 코딩입니다.
 
-- 참고 사이트: https://www.sanghafarm.co.kr/brand/index.jsp
+- 참고 사이트: https://www.sanghafarm.co.kr/brand/play/gallery.jsp
 - 원본 팀 프로젝트: https://github.com/tuski0/KANT_Sangha_Clone_Coding
 
 ## 사용 기술
