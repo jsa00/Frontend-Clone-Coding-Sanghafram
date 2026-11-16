@@ -19,6 +19,7 @@
 ```text
 ├── README.md
 ├── play.html                  # 놀다 — 전시관
+├── public/                    # README 스크린샷
 ├── css/
 │   ├── public_css/
 │   │   ├── header.css         # 헤더 스타일
@@ -37,6 +38,24 @@
 | 헤더 | 로고, 대메뉴(농원소개·짓다·놀다·먹다·농원이야기 등), 회원가입·예약 링크 |
 | 본문 | 전시관 상단 배너, 소개 문구, 2016 연도 표시, 그랜드 오픈 기념 전시 이미지와 설명 |
 | 푸터 | 로고, 연락처, 회사 정보 |
+
+## 스크린샷
+
+### 전체 화면
+
+![놀다 페이지 전체](public/play_full.png)
+
+### 헤더
+
+![헤더](public/play_header.png)
+
+### 본문
+
+![놀다 본문](public/play_main.png)
+
+### 푸터
+
+![푸터](public/play_footer.png)
 
 ## 참고
 
